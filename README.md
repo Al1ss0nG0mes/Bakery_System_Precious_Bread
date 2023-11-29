@@ -39,4 +39,4 @@ Este projeto foi desenvolvido como parte das atividades práticas da disciplina 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e propor melhorias.
 
 ## Licença
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE.txt) para obter detalhes.
